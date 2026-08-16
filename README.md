@@ -21,7 +21,7 @@ Bu depo, **TÜBİTAK 3501** projesi kapsamında geliştirilen, uydu uzaktan alg�
 ---
 
 ## 📂 Depo Yapısı
-* `notebooks/`: Eğitim amaçlı hazırlanan adım adım Jupyter Notebook (`.ipynb`) dosyaları.
+* `notebooks/`: Eğitim amaçlı hazırlanan adım adım Jupyter Notebook (`*.ipynb`) dosyaları.
 * `veri/`: Analizlerde kullanılan verilerin (`*.txt`, `*.tif`) bir kısmı bu dizinde paylaşılmaktadır.
 
 ---
