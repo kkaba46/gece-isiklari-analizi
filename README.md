@@ -42,7 +42,7 @@ Bu seride işlenen temel modüller şunlardır:
 ## 🛠️ Kurulum ve Gereksinimler
 Kodların yerel bilgisayarınızda çalışabilmesi için Python standart modüllerine ek olarak gerekli olan Python kütüphaneleri:
 * `pandas`, `numpy`, `scipy`, `matplotlib`
-* `gdal`, `rasterio`, `xarray`,  `rioxarray`, pyproj, `cartopy`, `geopandas`
+* `gdal`, `rasterio`, `xarray`,  `rioxarray`, `pyproj`, `cartopy`, `geopandas`
 * `pykrige`, `scikit-learn`, `xgboost`
 
 ---
