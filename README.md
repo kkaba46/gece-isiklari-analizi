@@ -5,6 +5,8 @@
 
 Bu depo, **TÜBİTAK 3501** projesi kapsamında geliştirilen, uydu uzaktan algılama verileri ve yer tabanlı gözlemlerle ışık kirliliğini inceleyen açık kaynaklı bir eğitim ve uygulama serisidir.
 
+Bu depo, **Experimental Astronomy** dergisinde kabul edilen çalışmalarımızın veri işleme ve görselleştirme adımlarını eğitim amaçlı olarak sunmaktadır.
+
 ---
 
 ## 👥 Proje Ekibi & Dokümanı Hazırlayanlar
