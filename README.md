@@ -32,12 +32,12 @@ Bu depo, **Experimental Astronomy** dergisinde kabul edilen çalışmalarımız�
 Bu seride işlenen temel modüller şunlardır:
 1. **Yer Tabanlı SQM Ölçümleri:** SQM cihazı veri standardizasyonu, Bortle skalasına göre sınıflandırma ve TİKE değişim analizi.
 2. **VIIRS NTL Veri Temini ve İşleme:** NASA LAADS DAAC üzerinden VNP46A1/A2 günlük ürünlerinin temin edilmesi ve işlenmesi.
-3. **Veri dönüşümleri, Mekânsal ve İstatistiksel Modelleme:** Logaritmik transfer fonksiyonlarının uygulanması, interpolasyon modellerinin geliştirilmesi.
-4. **Hibrit  Modelleme:** Makine öğrenme algoritmaları ile hibrit interpolasyon modellerinin geliştirilmesi.
+3. **Veri dönüşümleri, Mekânsal ve İstatistiksel Modelleme:** Logaritmik transfer fonksiyonlarının uygulanması, interpolasyon modellerinin geliştirilmesi (Hazırlanıyor).
+4. **Hibrit  Modelleme:** Makine öğrenme algoritmaları ile hibrit interpolasyon modellerinin geliştirilmesi (Hazırlanıyor).
 5. **Zamansal Analizler:** VIIRS NTL verilerinden zaman serisi analizleri.
 6. **Konumsal Analizler:**  VIIRS NTL verilerinden değişim tespiti analizleri.
 7. **Gece Işıklarının Spektral Analizleri:** Yapay gece ışıklarının SDGSAT-1 Glimmer görüntülerinden çok bantlı analizleri.
-8. **Atmosferik Aerosol ve Işık Kirliliği:** Aerosol parametrelerinin hesaplanması ve ışık kirliliği ile etkileşimleri.
+8. **Atmosferik Aerosol ve Işık Kirliliği:** Aerosol parametrelerinin hesaplanması ve ışık kirliliği ile etkileşimleri (Hazırlanıyor).
 
 ---
 
