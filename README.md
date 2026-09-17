@@ -1,5 +1,3 @@
-# gece-isiklari-analizi
-
 # Türkiye Ulusal Gözlemevleri Bünyesindeki Erzurum DAG Yerleşkesi ve Antalya TUG Yerleşkesi için Gece Işıklarının Analizi
 ## TÜBİTAK 3501 Kariyer Geliştirme Programı (Proje No: 124F297)
 
